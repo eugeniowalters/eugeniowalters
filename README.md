@@ -1,12 +1,3 @@
-#So many ideas so little time lol 👋
-
-Learning something new, tinkering and talking to others brings endless joy; so I hope to continue exploring here.
-
-##Lean Canvas and BMC helps me organize my thoughts so I'll use it for all repo readme
-
-![Lean Canvas] (https://eugeniowalters.com/lcm.png)
-
-![business model canvas] (https://eugeniowalters.com/bmc.webp)
 <!--
 **eugeniowalters/eugeniowalters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#So many ideas so little time lol 👋
+
+Learning something new, tinkering and talking to others brings endless joy; so I hope to continue exploring here.
+
+##Lean Canvas and BMC helps me organize my thoughts so I'll use it for all repo readme
+
+![Lean Canvas] (https://eugeniowalters.com/lcm.png)
+
+![business model canvas] (https://eugeniowalters.com/bmc.webp)
