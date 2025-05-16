@@ -25,8 +25,8 @@
 ### Strategy 2
 ### Strategy 3
 
-## Selected Strategy
-### Strategy Name
+## Selected Strategy: Name
+
 #### Segmentation
 ### Targeting
 ### Positioning 
