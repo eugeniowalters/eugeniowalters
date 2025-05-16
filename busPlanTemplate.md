@@ -27,7 +27,7 @@
 
 ## Selected Strategy: Name
 
-#### Segmentation
+### Segmentation
 ### Targeting
 ### Positioning 
 
