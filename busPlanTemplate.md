@@ -27,10 +27,13 @@
 ### Product/Services
 ### Price
 ### Place
-### Positioning
+### Promotion
 
 ## Appendix
 ### Financial Analysis
 #### Market Sizing
 
+### Lean Canvas
+
+### Business Model Canvas
 
