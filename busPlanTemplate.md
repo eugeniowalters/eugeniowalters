@@ -5,7 +5,7 @@
 ### Summary
 #### Head Winds
 #### Tail Winds
-#### Segmentation
+
 
 ### Competition Set
 ##### Industry Forces
@@ -27,8 +27,10 @@
 
 ## Selected Strategy
 ### Strategy Name
-### Positioning 
+#### Segmentation
 ### Targeting
+### Positioning 
+
 ### Marketing Mix
 #### Product/Services
 #### Price
