@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Learning something new, tinkering and talking to others brings endless joy; so I hope to continue exploring here. I hope it helps someone
 
-##Lean Canvas and BMC helps me organize my thoughts so I'll use it for all repo readme
+##Lean Canvas and BMC helps me organize my thoughts
 
 ![Lean Canvas] (https://eugeniowalters.com/lcm.png)
 
