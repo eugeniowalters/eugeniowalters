@@ -18,6 +18,6 @@ Learning something new, tinkering and talking to others brings endless joy; so I
 
 ##Lean Canvas and BMC helps me organize my thoughts so I'll use it for all repo readme
 
-![Lean Canvas] (https://eugeniowalters.com/lcm.png)
+![ Lean Canvas ] (https://eugeniowalters.com/lcm.png)
 
 ![business model canvas] (https://eugeniowalters.com/bmc.webp)
