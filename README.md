@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 #So many ideas so little time lol 👋
 
-Learning something new, tinkering and talking to others brings endless joy; so I hope to continue exploring here.
+Learning something new, tinkering and talking to others brings endless joy; so I hope to continue exploring here. I hope it helps someone
 
 ##Lean Canvas and BMC helps me organize my thoughts so I'll use it for all repo readme
 
