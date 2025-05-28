@@ -3,6 +3,7 @@
 
 ## Situational Analysis
 ### Summary
+### SWOT
 #### Head Winds
 #### Tail Winds
 
