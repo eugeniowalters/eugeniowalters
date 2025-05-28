@@ -1,25 +1,25 @@
 # Title
 ## Objectives
 
-## Situational Analysis
+## **Situational Analysis**
 ### Summary
 ### SWOT
 #### Head Winds
 #### Tail Winds
 
 
-### Competition Set
+### **Competition Set**
 ##### Industry Forces
 ##### Suppliers
 ##### Substitues
 ##### Buyers
 
-### Customers
+### **Customers**
 #### JTBD
 #### Pains
 #### Gains
 
-### Hypothesis Tracking
+### **Hypothesis Tracking**
 
 ## Strategic Alternatives
 ### Strategy 1
@@ -32,7 +32,7 @@
 ### Targeting
 ### Positioning 
 
-### Marketing Mix
+### **Marketing Mix**
 #### Product/Services
 #### Price
 #### Place
@@ -42,16 +42,16 @@
 ##### Programs & Tactics & Demos
 
 ## Appendix
-### Financial Analysis
+### **Financial Analysis**
 #### Market Sizing
 #### Budgets
 #### Pro Forma Statements
 
-### Monitors and Controls
+### **Monitors and Controls**
 
-### Contingency Plans and Other Docs
+### **Contingency Plans and Other Docs**
 
-### Lean Canvas
+### **Lean Canvas**
 #### 1. Problem
     Top 3 Problems
 #### 2. Customers Segments
@@ -75,7 +75,7 @@
 #### 8. Key Metrics
     Key activities you measure
 
-### Business Model Canvas
+### **Business Model Canvas**
 #### 1. Customer Segments
     List your target customers and users
 
@@ -104,11 +104,11 @@
 #### 8. Key Metrics
     List key numbers telling how your business is doing today
 
-### Market Requirements
+### **Market Requirements**
 
-### Product/Services Requirements
+### **Product/Services Requirements**
 
-### Marketing Strategy
+### **Marketing Strategy**
 
 ### Sales Plans
 #### Sales Guide
