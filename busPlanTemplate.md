@@ -106,45 +106,45 @@
     <td><strong>Key Partners</strong><br/>
       • Strategic alliances<br/>
       • Suppliers<br/>
-      • Joint ventures
+      • Outsourcing<br/>
     </td>
     <td><strong>Key Activities</strong><br/>
-      • Core processes<br/>
-      • Value delivery<br/>
-      • Marketing and operations
+      • What you do to deliver value<br/>
+      • Production, problem-solving<br/>
     </td>
     <td><strong>Value Propositions</strong><br/>
-      • What value are you delivering?<br/>
-      • What customer needs are you satisfying?<br/>
-      • What differentiates you?
+      • What problem are you solving?<br/>
+      • What value do you deliver?<br/>
     </td>
     <td><strong>Customer Relationships</strong><br/>
-      • How do you acquire, retain, and grow customers?<br/>
-      • Personal vs. automated
+      • How do you interact with customers?<br/>
+      • Personal vs. automated<br/>
     </td>
     <td><strong>Customer Segments</strong><br/>
       • Who are your most important customers?<br/>
-      • Segmentation strategy<br/>
-      • B2B/B2C/Niche?
+      • What are their needs?<br/>
     </td>
   </tr>
   <tr>
-    <td colspan="5"><strong>Channels</strong><br/>
+    <td colspan="2"><strong>Key Resources</strong><br/>
+      • Assets you need (physical, intellectual, human, financial)
+    </td>
+    <td><strong>Channels</strong><br/>
       • How do you reach customers?<br/>
-      • Sales channels, digital, in-person<br/>
-      • Awareness, delivery, after-sales
+      • Online, in-store, partners?
+    </td>
+    <td colspan="2"><strong>Channels (continued)</strong><br/>
+      • Awareness, evaluation, purchase, delivery, after-sales
     </td>
   </tr>
   <tr>
     <td colspan="2"><strong>Cost Structure</strong><br/>
-      • Fixed and variable costs<br/>
-      • Cost drivers and efficiencies<br/>
-      • Most expensive activities/resources
+      • What are your biggest costs?<br/>
+      • Economies of scale?<br/>
     </td>
     <td colspan="3"><strong>Revenue Streams</strong><br/>
-      • How do you earn revenue?<br/>
-      • Transactional, recurring, licensing<br/>
-      • What value are customers paying for?
+      • How do you make money?<br/>
+      • One-time purchases, subscriptions, etc.
     </td>
   </tr>
 </table>
