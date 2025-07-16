@@ -53,27 +53,27 @@
 
 # Lean Canvas
 
-A 1-page business plan template created by Ash Maurya, optimized for startups.
-
-| Problem | Customer Segments |
-|---------|--------------------|
-| - List top 1-3 problems.  <br> - Existing alternatives. | - Target customers. <br> - Early adopters. |
-
-| Unique Value Proposition | Solution |
-|--------------------------|----------|
-| - Single, clear, compelling message. <br> - Why you're different and worth paying attention to. | - Outline possible solutions for each problem. <br> - MVP version. |
-
-| Channels | Revenue Streams |
-|----------|-----------------|
-| - How will you reach your customers? <br> - Marketing and distribution. | - How will you make money? <br> - Revenue model, pricing tactics. |
-
-| Cost Structure | Key Metrics |
-|----------------|-------------|
-| - Fixed and variable costs. <br> - What are the biggest cost drivers? | - Key activities to track. <br> - What numbers tell you you're succeeding? |
-
-| Unfair Advantage |
-|------------------|
-| - Something that can’t be easily copied or bought. <br> - E.g., insider information, community, existing customers, SEO rank, team, etc. |
+<table>
+  <tr>
+    <td colspan="2"><strong>Problem</strong><br/>• Problem 1<br/>• Problem 2<br/>• Problem 3</td>
+    <td colspan="2"><strong>Customer Segments</strong><br/>• Segment 1<br/>• Segment 2</td>
+  </tr>
+  <tr>
+    <td colspan="4"><strong>Unique Value Proposition</strong><br/>Clear, compelling message that explains why your solution is worth paying attention to</td>
+  </tr>
+  <tr>
+    <td colspan="4"><strong>Solution</strong><br/>Outline of solutions for each problem</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Channels</strong><br/>Marketing & distribution channels</td>
+    <td colspan="2"><strong>Revenue Streams</strong><br/>How you make money</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Cost Structure</strong><br/>Major fixed/variable costs</td>
+    <td><strong>Key Metrics</strong><br/>Measurables that show traction</td>
+    <td><strong>Unfair Advantage</strong><br/>Unique moat that can't be easily copied</td>
+  </tr>
+</table>
 
 
 ### **Lean Canvas**
@@ -99,22 +99,55 @@ A 1-page business plan template created by Ash Maurya, optimized for startups.
     People, etc.
 #### 8. Key Metrics
     Key activities you measure
-
 # Business Model Canvas
 
-Developed by Strategyzer, this is a strategic management tool to visualize and assess a business idea.
-
-| Key Partners | Key Activities | Value Propositions |
-|--------------|----------------|---------------------|
-| - Who are your key partners/suppliers? <br> - What resources do they provide? | - What key activities do you perform? <br> - Production, problem solving, etc. | - What value do you deliver to the customer? <br> - Which problems are you solving? <br> - What bundles of products/services? |
-
-| Customer Relationships | Channels | Customer Segments |
-|------------------------|----------|--------------------|
-| - What type of relationship does each customer expect? <br> - Personal, automated, etc. | - How do you reach your customer segments? <br> - Touchpoints. | - Who are you creating value for? <br> - Who are your most important customers? |
-
-| Key Resources | Cost Structure | Revenue Streams |
-|---------------|----------------|-----------------|
-| - What key assets do you need (physical, intellectual, human, financial)? | - What are the most important costs in your business model? <br> - Fixed, variable, economies of scale. | - What are customers willing to pay for? <br> - How do they pay now? <br> - Pricing strategy. |
+<table>
+  <tr>
+    <td><strong>Key Partners</strong><br/>
+      • Strategic alliances<br/>
+      • Suppliers<br/>
+      • Outsourcing<br/>
+    </td>
+    <td><strong>Key Activities</strong><br/>
+      • What you do to deliver value<br/>
+      • Production, problem-solving<br/>
+    </td>
+    <td><strong>Value Propositions</strong><br/>
+      • What problem are you solving?<br/>
+      • What value do you deliver?<br/>
+    </td>
+    <td><strong>Customer Relationships</strong><br/>
+      • How do you interact with customers?<br/>
+      • Personal vs. automated<br/>
+    </td>
+    <td><strong>Customer Segments</strong><br/>
+      • Who are your most important customers?<br/>
+      • What are their needs?<br/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Key Resources</strong><br/>
+      • Assets you need (physical, intellectual, human, financial)
+    </td>
+    <td><strong>Channels</strong><br/>
+      • How do you reach customers?<br/>
+      • Online, in-store, partners?
+    </td>
+    <td colspan="2"><strong>Channels (continued)</strong><br/>
+      • Awareness, evaluation, purchase, delivery, after-sales
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Cost Structure</strong><br/>
+      • What are your biggest costs?<br/>
+      • Economies of scale?<br/>
+    </td>
+    <td colspan="3"><strong>Revenue Streams</strong><br/>
+      • How do you make money?<br/>
+      • One-time purchases, subscriptions, etc.
+    </td>
+  </tr>
+</table>
 
 
 ### **Business Model Canvas**
