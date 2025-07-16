@@ -51,6 +51,31 @@
 
 ### **Contingency Plans and Other Docs**
 
+# Lean Canvas
+
+A 1-page business plan template created by Ash Maurya, optimized for startups.
+
+| Problem | Customer Segments |
+|---------|--------------------|
+| - List top 1-3 problems.  <br> - Existing alternatives. | - Target customers. <br> - Early adopters. |
+
+| Unique Value Proposition | Solution |
+|--------------------------|----------|
+| - Single, clear, compelling message. <br> - Why you're different and worth paying attention to. | - Outline possible solutions for each problem. <br> - MVP version. |
+
+| Channels | Revenue Streams |
+|----------|-----------------|
+| - How will you reach your customers? <br> - Marketing and distribution. | - How will you make money? <br> - Revenue model, pricing tactics. |
+
+| Cost Structure | Key Metrics |
+|----------------|-------------|
+| - Fixed and variable costs. <br> - What are the biggest cost drivers? | - Key activities to track. <br> - What numbers tell you you're succeeding? |
+
+| Unfair Advantage |
+|------------------|
+| - Something that can’t be easily copied or bought. <br> - E.g., insider information, community, existing customers, SEO rank, team, etc. |
+
+
 ### **Lean Canvas**
 #### 1. Problem
     Top 3 Problems
@@ -74,6 +99,23 @@
     People, etc.
 #### 8. Key Metrics
     Key activities you measure
+
+# Business Model Canvas
+
+Developed by Strategyzer, this is a strategic management tool to visualize and assess a business idea.
+
+| Key Partners | Key Activities | Value Propositions |
+|--------------|----------------|---------------------|
+| - Who are your key partners/suppliers? <br> - What resources do they provide? | - What key activities do you perform? <br> - Production, problem solving, etc. | - What value do you deliver to the customer? <br> - Which problems are you solving? <br> - What bundles of products/services? |
+
+| Customer Relationships | Channels | Customer Segments |
+|------------------------|----------|--------------------|
+| - What type of relationship does each customer expect? <br> - Personal, automated, etc. | - How do you reach your customer segments? <br> - Touchpoints. | - Who are you creating value for? <br> - Who are your most important customers? |
+
+| Key Resources | Cost Structure | Revenue Streams |
+|---------------|----------------|-----------------|
+| - What key assets do you need (physical, intellectual, human, financial)? | - What are the most important costs in your business model? <br> - Fixed, variable, economies of scale. | - What are customers willing to pay for? <br> - How do they pay now? <br> - Pricing strategy. |
+
 
 ### **Business Model Canvas**
 #### 1. Customer Segments
