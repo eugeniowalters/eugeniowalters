@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "busPlanTemplate.md",
               "ToolTip": "C:\\Users\\eugen\\source\\repos\\eugeniowalters\\busPlanTemplate.md",
               "RelativeToolTip": "busPlanTemplate.md",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-12-16T23:46:42.253Z",
               "EditorCaption": ""
@@ -47,8 +47,11 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-12-16T23:46:44.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T23:46:44.394Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
