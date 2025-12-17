@@ -15,14 +15,40 @@
 ##### Buyers
 
 ### **Customers**
-#### Empathy Map
-- Users/Customers
-- Says
-- Thinks
-- Does
-- Feels
-- Pain
-- Gain
+#### Empathy Template
+
+The Client's Challenge
+{Who is impacted plurals} really feel {Empathy Adjective} at the {Place of the experience} during {process name}. All too often, {what happens in a time during the experience?} leads to {a bad outcome}, of course, {Someone responsible for the process} {Empathy Action} {something a person can do to fix a problem} to {a bad outcome}, but it still leaves {who is impacted} with a sense of {empathy noun}.
+Making things even more challenging, leaders focused on {relevant outcome} have to keep in mind {an external factor or internal factor} which also exacerbates this situation because of {what links to the situation}.
+Empathy Adjective
+
+#### Frustrated
+- Angry
+- Stressed
+- Impatient
+- Anxious
+- Disappointed
+- Trapped
+- Empty
+- Abandoned
+- Lost
+- Confused
+- Cheated
+- Misled
+
+#### Empathy noun
+- Frustration
+- Anger
+- Stress
+- Impatience  
+- Anxiety
+- Disappointment
+- Emptiness
+- Abandonment
+- Loss
+- Confusion
+- Unfairness
+- Annoyance
 
 #### JTBD
 #### Pains
