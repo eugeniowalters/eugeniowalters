@@ -15,6 +15,15 @@
 ##### Buyers
 
 ### **Customers**
+#### Empathy Map
+- Users/Customers
+- Says
+- Thinks
+- Does
+- Feels
+- Pain
+- Gain
+
 #### JTBD
 #### Pains
 #### Gains
